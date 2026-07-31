@@ -1,8 +1,4 @@
 <div align="center">
-  <a href="https://itstimo.me">
-    <img src="https://itstimo.me/opengraph-image.png" alt="itstimo — Apps, articles, and experiments" width="100%">
-  </a>
-
   <h1>Hi, I'm Timo.</h1>
 
   <p>
