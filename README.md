@@ -53,7 +53,7 @@ This GitHub is my digital workbench: a mix of polished apps, quick prototypes, A
 
 ### Get in touch
 
-Have a question, an idea, or just want to say hi? Feel free to [send me an email](mailto:timo.info@t-online.de). I'm always happy to hear about interesting projects, new technologies, feedback, or opportunities to collaborate.
+Have a question, an idea, or just want to say hi? Feel free to [send me an email](mailto:hey@itstimo.me). I'm always happy to hear about interesting projects, new technologies, feedback, or opportunities to collaborate.
 
 <div align="center">
   <sub>📍 Based in Munich · Learning by building 🛠️</sub>
