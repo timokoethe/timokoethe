@@ -43,9 +43,9 @@ This GitHub is my digital workbench: a mix of polished apps, quick prototypes, A
 
 ### Latest writing
 
+- [**Connecting external coding agents to Xcode**](https://itstimo.me/articles/xcode-external-agents) — how Xcode's MCP server brings build and Simulator access into the agentic development loop.
 - [**Programmatic image generation with Apple's Image Playground**](https://itstimo.me/articles/apple-image-playground) — using `ImageCreator` for custom, on-device generation.
 - [**Apple Core AI, in plain terms**](https://itstimo.me/articles/apple-core-ai) — a practical look at Apple's local runtime for your own models.
-- [**Apple's Foundation Models, in plain terms**](https://itstimo.me/articles/apple-foundation-models) — how developers can work with the on-device language model.
 
 ### Often using
 
