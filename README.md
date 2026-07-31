@@ -1,9 +1,10 @@
 <div align="center">
-  <h1>Hi, I'm Timo.</h1>
+  <h1>Hi, I'm Timo. 👋</h1>
 
   <p>
-    I build small apps, try new tools, and learn by making things with<br>
-    SwiftUI, Next.js, local AI, and hardware sketches.
+    I love trying new technologies, building small experiments, and learning by making.<br>
+    From SwiftUI and local AI to web projects and hardware sketches,
+    I am happiest when an idea turns into something I can actually try.
   </p>
 
   <p>
@@ -16,7 +17,17 @@
 
 ---
 
-I'm curious about frameworks, interfaces, and physical computing. My GitHub is a mix of Apple platform experiments, web projects, MicroPython hardware notes, and small tools that usually start with a simple question: *what happens if I build this?*
+I'm endlessly curious about frameworks, interfaces, local AI, and physical computing. I enjoy exploring unfamiliar tools, connecting software with hardware, and figuring things out through hands-on experiments. Most of my projects begin with a simple question: *what happens if I build this?*
+
+This GitHub is my digital workbench: a mix of polished apps, quick prototypes, Apple platform experiments, web projects, MicroPython hardware notes, and small tools made to solve everyday annoyances. Not every idea needs to become a finished product—sometimes the most interesting part is taking something apart, trying a new approach, and sharing what I learned along the way.
+
+### What keeps me building
+
+- 🧪 **Trying the new:** I like getting hands-on with emerging frameworks, APIs, and devices instead of only reading about them.
+- 🔧 **Learning by tinkering:** Prototypes, side projects, and small experiments are how I understand how things really work.
+- 🔌 **Connecting different worlds:** Native apps, the web, on-device AI, microcontrollers, sensors, and radio hardware all belong on the same workbench.
+- 💡 **Making useful things:** Even playful experiments often grow into tools that solve a real problem—for me or, ideally, for someone else too.
+- 📝 **Sharing the process:** I document discoveries, rough edges, and practical lessons so others can build on them.
 
 ### Selected work
 
@@ -45,5 +56,5 @@ I'm curious about frameworks, interfaces, and physical computing. My GitHub is a
 Have a question, an idea, or just want to say hi? Feel free to [send me an email](mailto:timo.info@t-online.de). I'm always happy to hear about interesting projects, new technologies, feedback, or opportunities to collaborate.
 
 <div align="center">
-  <sub>Based in Munich · Learning by building</sub>
+  <sub>📍 Based in Munich · Learning by building 🛠️</sub>
 </div>
