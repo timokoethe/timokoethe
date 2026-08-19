@@ -17,10 +17,6 @@
 
 ---
 
-I'm endlessly curious about frameworks, interfaces, local AI, and physical computing. I enjoy exploring unfamiliar tools, connecting software with hardware, and figuring things out through hands-on experiments. Most of my projects begin with a simple question: *what happens if I build this?*
-
-This GitHub is my digital workbench: a mix of polished apps, quick prototypes, Apple platform experiments, web projects, MicroPython hardware notes, and small tools made to solve everyday annoyances. Not every idea needs to become a finished product—sometimes the most interesting part is taking something apart, trying a new approach, and sharing what I learned along the way.
-
 ### What keeps me building
 
 - 🧪 **Trying the new:** I like getting hands-on with emerging frameworks, APIs, and devices instead of only reading about them.
