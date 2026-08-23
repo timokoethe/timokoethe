@@ -49,7 +49,7 @@
 
 ### Get in touch
 
-Have a question, an idea, or just want to say hi? Feel free to [send me an email](mailto:hey@itstimo.me). I'm always happy to hear about interesting projects, new technologies, feedback, or opportunities to collaborate.
+Have a question, an idea, or just want to say hi? Feel free to [send me an email](mailto:hey@itstimo.me).
 
 <div align="center">
   <sub>📍 Based in Munich · Learning by building 🛠️</sub>
