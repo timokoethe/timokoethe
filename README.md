@@ -27,7 +27,7 @@
 | --- | --- |
 | [**Localight**](https://github.com/timokoethe/Localight) | Private, on-device chat with Apple's Foundation Models on iOS. |
 | [**Localframe**](https://github.com/timokoethe/Localframe) | Fully local image generation with Apple's Image Playground models. |
-| [**Localisten**](https://github.com/timokoethe/Localisten) | On-device live and audio-file transcription with Apple's Speech framework on iOS. |
+| [**App Store Connect MCP**](https://github.com/timokoethe/appstoreconnect-mcp) | Read-only access to apps, releases, metadata, TestFlight builds, and customer reviews from Codex and other MCP clients. |
 | [**CoreAIChat**](https://github.com/timokoethe/CoreAIChat) | A native macOS showcase for Apple's Core AI framework. |
 | [**Pingo**](https://github.com/timokoethe/Pingo) | An open-source API scratchpad in the macOS menu bar. |
 | [**DropSweep**](https://github.com/timokoethe/DropSweep) | A tiny menu bar tool that keeps the Downloads folder tidy. |
