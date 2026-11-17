@@ -31,6 +31,7 @@
 | [**CoreAIChat**](https://github.com/timokoethe/CoreAIChat) | A native macOS showcase for Apple's Core AI framework. |
 | [**Pingo**](https://github.com/timokoethe/Pingo) | An open-source API scratchpad in the macOS menu bar. |
 | [**DropSweep**](https://github.com/timokoethe/DropSweep) | A tiny menu bar tool that keeps the Downloads folder tidy. |
+| [**BorrowBack**](https://github.com/timokoethe/BorrowBack) | A native iOS app for tracking lent items, borrowers, due dates, and returns. |
 | [**NotificationManager**](https://github.com/timokoethe/NotificationManager) | A Swift package for scheduling local notifications. |
 | [**SX1278**](https://github.com/timokoethe/SX1278) | A MicroPython LoRa driver for the Raspberry Pi Pico and Pico 2. |
 
